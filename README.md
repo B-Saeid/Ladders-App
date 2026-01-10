@@ -1,7 +1,6 @@
-# Ladders-App
-Ladders App Releases.
+# Ladders App
+### Cross-Platform Releases
 
-+ v2.1.1 android 02-01-2026
-+ v2.1.0 android 16-12-2025
-+ v2.0.0 android 06-12-2025
-+ v1.0.0 android 21-07-2025
+| Android                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Web                                   | Windows                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [Universal](https://github.com/B-Saeid/Ladders-App/releases/download/v2.1.1-android/ladders-v2.1.1-universal.apk) or [arm64](https://github.com/B-Saeid/Ladders-App/releases/download/v2.1.1-android/ladders-v2.1.1-arm64-v8a.apk) or [arm](https://github.com/B-Saeid/Ladders-App/releases/download/v2.1.1-android/ladders-v2.1.1-arm-v7a.apk) or [x86_64](https://github.com/B-Saeid/Ladders-App/releases/download/v2.1.1-android/ladders-v2.1.1-x64.apk) | [↗️ Open](https://ladders.bsaeid.dev) | [Download](https://github.com/B-Saeid/Ladders-App/releases/download/v1.0.0-windows/ladders-v1.0.0-windows-x64.exe) |7
