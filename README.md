@@ -1,4 +1,6 @@
 # Ladders App
+## Check it out [here](https://ladders.bsaeid.dev/download)
+
 ### Cross-Platform Releases
 
 
